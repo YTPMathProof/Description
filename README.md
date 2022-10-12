@@ -8,11 +8,11 @@ The Math Proof Module recieves an elementary math question and a student's work 
 
 ## Example
 
-### First stream of input (math question, in LaTeX)
+### First stream of input (math question, in $\LaTeX$)
 
 Prove that $a^2 + b^2 + c^2 \geq ab + bc + ca \forall a, b, c \in R$.
 
-### Second stream of input (student's work, in LaTeX)
+### Second stream of input (student's work, in $\LaTeX$)
 
 Using Cauchy-Schwarz inequality, we have:
 
