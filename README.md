@@ -19,9 +19,11 @@ Using Cauchy-Schwarz inequality, we have:
 $$
 a^2 + b^2 \geq 2ab
 $$
+
 $$
 b^2 + c^2 \geq 2bc
 $$
+
 $$
 c^2 + a^2 \geq 2ca
 $$
